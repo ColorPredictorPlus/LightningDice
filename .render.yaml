@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: lightning-dice-php
+    name: lightningdicevip
     env: php
     plan: free
     buildCommand: ""
